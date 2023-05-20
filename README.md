@@ -15,3 +15,25 @@ from Github import ReadMe
             "gently"
         ]        
 ```
+
+```py
+from GitHub import ReadMe
+
+class dropout(ReadMe):
+    "/dropout1337/dropout1337/README.md"
+
+    def __init__(self):
+        self.username = "dropout"
+        self.contacts = {
+            "Discord": "dropout#0003",
+            "Telegram": "@modules"
+        }
+        self.aliases = [
+            "dropout",
+            "dropoutuwu",
+            "dropoutlol",
+            "dropout1337"
+        ]
+        self.location = "New Zealand, Hastings"
+        self.occupation = "SnowProxies CEO / Developer"
+```
